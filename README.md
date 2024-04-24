@@ -1,6 +1,8 @@
 # React-Assignement
 
 
+  # after cloning the repo
+
   cd assignment
   npm i
   npm start
